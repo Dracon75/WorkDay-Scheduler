@@ -1,0 +1,65 @@
+ul{
+  list-style-type: none;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.container {
+  text-align: center;
+  width: 75%;
+}
+
+.custom-timeOfDay{
+  font-size: 16px;
+}
+
+.custom-activityBlock{
+  font-size: 16px;
+}
+
+.custom-lockBox{
+  font-size: 16px;
+}
+
+.custom-saveBtn{
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: xx-large;
+}
+
+.custom-removeBtn{
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: xx-large;
+}
+
